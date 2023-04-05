@@ -14,7 +14,7 @@
 ### Module 2: Syntax
 - Example: [simple-workflow.yml](/.github/workflows/simple-workflow.yml)
 - Example: [job-dependencies.yml](/.github/workflows/job-dependencies.yml)
-- [ ] _Hands-on Lab:_ :point_right: [Activity 2](/labs/lab02.md)
+- [x] _Hands-on Lab:_ :point_right: [Activity 2](/labs/lab02.md)
 
 ### Module 3: Environments and Secrets
 - Example: [environments-secrets.yml](/.github/workflows/environments-secrets.yml)
